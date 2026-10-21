@@ -13,6 +13,8 @@
 ---
 
 ## 📖 Tentang Aplikasi
+LINK : PDF LAPORAN https://github.com/mhaikalfirdaus/pengaduan-bpbd/blob/d038dd423c7c08f73dd95aee323740356315c5e3/REVISIAN_Laporan%20PL_065122201_Muhammad%20Haikal%20Firdaus-1.pdf
+
 
 **Pengaduan Masyarakat** memudahkan warga melaporkan keluhan (misalnya jalan rusak) lengkap dengan foto pendukung, lalu petugas menindaklanjuti dan memberi tanggapan. Status laporan dapat dipantau dari awal sampai selesai.
 
