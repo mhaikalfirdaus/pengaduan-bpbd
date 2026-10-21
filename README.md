@@ -155,9 +155,3 @@ pengaduan-bpbd/
 3. Commit perubahan: `git commit -m "Tambah fitur baru"`
 4. Push ke branch: `git push origin fitur-baru`
 5. Buat Pull Request
-
-## 📄 Lisensi
-
-Proyek ini menggunakan lisensi [MIT](https://opensource.org/licenses/MIT).
-
-© 2021 Muhamad Zainal Arifin
